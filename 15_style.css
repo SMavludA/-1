@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); 
+
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+  background-color: rgb(255, 229, 229);
+  font-weight: normal;
+}
+.container {
+  max-width: 550px;
+  margin: auto;
+  border: 1px solid rgb(255, 247, 254);
+}
+.avatar {
+  width: 280px;
+  height: 300px;
+  border-radius: 25px;
+  box-shadow: 6px 6px 6px rgb(248, 187, 238);
+  margin: 10px auto;
+  display: block;
+ 
+  padding-bottom: 10px;
+}
+@media (max-width: 200px) { 
+.avatar {
+display: block;
+ }
+}z
+ .info h1, p {
+margin: 3px auto;
+text-align: center;
+}
+.card {
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid rgb(255, 225, 225);
+}
+.bnn {
+  background: rgb(203, 238, 211);
+} 
+ .bt {
+  background: rgb(248, 187, 238); 
+}
+
+.green {
+  color: rgb(64, 216, 165);
+}
+.btn {
+  background: #9bdaa8;
+  
+}
+.bnn h4, a  
+.btn label, input {
+  margin: 0;
+  padding: 0;
+  border-bottom: 0;
+}
+.bnn h4, a {
+  margin: 10px;
+  padding: 10px 20px;
+  border-bottom: 15px;
+}
+.btn label, input {
+  margin: 10px;
+  padding: 10px 20px;
+  border-bottom: 15px;
+  font-family: inherit;
+  border: none;
+}
+.bt h4 {
+  padding-left: 25px;
+}
+.bt li {
+  margin-bottom: 0px;
+}
+  .a:active {
+  color: blue;
+} 
+.a:visited {
+  color: red;
+}
+
+
+
+    
+   
+   
+
+
+    
+
+    
+
+        
+        
+    
